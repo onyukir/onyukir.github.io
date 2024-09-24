@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onyukir.github.io/sitemap.html.gz
+Sitemap: https://onyukir.github.io/app/sitemap.html.gz
+Sitemap: https://onyukir.github.io/assets/sitemap.html.gz
+Sitemap: https://onyukir.github.io/css/sitemap.html.gz
+Sitemap: https://onyukir.github.io/data/sitemap.html.gz
+Sitemap: https://onyukir.github.io/includes/sitemap.html.gz
+Sitemap: https://onyukir.github.io/item/sitemap.html.gz
+Sitemap: https://onyukir.github.io/src/sitemap.html.gz
